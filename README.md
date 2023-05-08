@@ -1,6 +1,6 @@
-# Code-Basics-C
+# Code-Basics
 
-My sollutions from https://ru.code-basics.com/ on C language.
+My sollutions from https://ru.code-basics.com/.
 
 ## What is Code Basics?
 It is a completely free platform to learn the basics of programming from scratch. Code Basics was created by the developers and the Hexlet community so that anyone could try their hand at programming and lay the right foundation for a new profession, based not on memorizing the specifics, but on understanding the system as a whole.
